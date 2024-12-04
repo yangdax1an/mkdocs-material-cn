@@ -179,30 +179,30 @@ not_in_nav: |
 
 # Page tree
 nav:
-  - Home: index.md
-  - Getting started:
-    - Installation: getting-started.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
-    - Customization: customization.md
-    - Conventions: conventions.md
-    - Browser support: browser-support.md
-    - Enterprise feedback: enterprise-support.md
-    - Philosophy: philosophy.md
-    - Alternatives: alternatives.md
-    - License: license.md
-    - Tutorials:
+  - 主页: index.md
+  - 准备开始:
+    - 安装: getting-started.md
+    - 创建你的网站: creating-your-site.md
+    - 发布你的网站: publishing-your-site.md
+    - 自定义: customization.md
+    - 约定: conventions.md
+    - 支持的浏览器: browser-support.md
+    - 反馈: enterprise-support.md
+    - 理念: philosophy.md
+    - 替代品: alternatives.md
+    - 许可证: license.md
+    - 教程:
       - tutorials/index.md
-      - "Blogs":
+      - "博客":
         - tutorials/blogs/basic.md
         - tutorials/blogs/navigation.md
         - tutorials/blogs/engage.md
-      - "Social cards":
+      - "社交卡片":
         - tutorials/social/basic.md
         - tutorials/social/custom.md
-    - Changelog:
+    - 更新日志:
       - changelog/index.md
-      - How to upgrade: upgrade.md
+      - 如何更新: upgrade.md
   - Setup:
     - setup/index.md
     - Changing the colors: setup/changing-the-colors.md
